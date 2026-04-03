@@ -46,7 +46,7 @@ View this project in this order:
 demo.ipynb: demonstrates the training of a neural network for the moon dataset. This is normally performed using scikitlearn. But here we implement everything. No numpy.
 test/test_engine.py: shows 2 tests that compare the implementation with PyTorch. This gives an intuition about what is implemented.
 To run the test: pip install pytest ---> create a blank conftest.py at the top level ---> in powershell terminal: pytest test/test_engine.py 
-micrograd/ and micrograd.ipynb in parallel: micrograd/ is the final result, whereas the notebook shows the thinking process.
+micrograd/ and micrograd.ipynb in parallel: micrograd/ is the final result, whereas the notebook shows the thinking process. View the notebook via this link: https://nbviewer.org/github/lam-thai-nguyen/micrograd/blob/main/demo.ipynb.
 
 --Reference
 Karpathy lesson: https://youtu.be/VMj-3S1tku0?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ
